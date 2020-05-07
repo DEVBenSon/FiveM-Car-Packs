@@ -17,6 +17,4 @@ Created FiveM supported car packs. One resource with up to 200+ cars. I also cre
 
 ## Quick Links
 
-Discord: https://discord.gg/bh62as6
-
-Tag: BenSon#0001
+Discord Tag: BenSon#0001
