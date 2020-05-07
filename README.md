@@ -1,7 +1,7 @@
 ## FiveM Car Packs (Public)
 
 [APIversionImg]: https://img.shields.io/badge/CustomPack%20staus-Stable-green
-[licenseImg]: https://img.shields.io/badge/Version-0.4-blue
+[licenseImg]: https://img.shields.io/badge/Version-0.6-blue
 
 [logo]: https://i.imgur.com/WeTNe2w.jpg
 <!-- The stuff above isn't visible in the readme -->
